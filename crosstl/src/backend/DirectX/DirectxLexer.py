@@ -74,6 +74,7 @@ KEYWORDS = {
     "else": "ELSE",
     "for": "FOR",
     "while": "WHILE",
+    "do": "DO",
     "register": "REGISTER",
 }
 
